@@ -18,7 +18,13 @@ There are two ways to find yourself in Dependency Hell:
 ## The Solution - Awesome Dependencies
 Awesome Dependencies is all about establishing as set of criteria for what makes a great dependency and cataloging dependencies that follow that criteria.
 
-## Good Dependencies
+### Good Dependencies
 - [x] Have a simple API which can be proxied/adapted
 - [x] Have zero to few transient dependencies
-- [x] Active support  
+- [x] Active support
+
+## Frontend Dependencies
+TBD
+
+## Backend Dependencies
+TBD
