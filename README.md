@@ -1,7 +1,7 @@
 # Awesome Dependencies
 
 ## The Problem
-Continuous Obsolescence is the all too common anti-pattern which emerges as a result of not properly managing your use 3rd party dependencies. The problem is simple: you depend on a 3rd party solution and they probably do to. If anything in that chain changes (or fails to change), it's your problem. Security is serious business and not taking your dependencies seriously will result in serious security issues.
+Continuous Obsolescence is the all too common anti-pattern which emerges as a result of not properly managing your use of 3rd party dependencies. The problem is simple: you depend on a 3rd party solution and they probably do to. If anything in that chain changes (or fails to change), it's your problem. Security is serious business and not taking your dependencies seriously will result in serious security issues.
 
 There are two ways dependencies can be screwed up: 
 
