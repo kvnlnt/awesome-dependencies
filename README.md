@@ -16,7 +16,7 @@ There are two ways to find yourself in Dependency Hell:
 2. Your "dependency" is an entire component library and making a bazillion adaptors isn't practical. 
 
 ## The Solution - Awesome Dependencies
-Awesome Dependencies is all about establishing as set of criteria for what makes a great dependency and cataloging dependencies that follow that criteria.
+Awesome Dependencies is all about establishing a set of criteria for what makes a great dependency and cataloging dependencies that follow that criteria.
 
 ### Good Dependencies
 - [x] Have a simple API which can be proxied/adapted
